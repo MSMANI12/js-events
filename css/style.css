@@ -1,0 +1,27 @@
+button{
+	font-size:28px;
+	background-color:gray;
+	border-radius:10px;
+}
+.pop-over{
+	visibility:hidden;
+	
+}
+.pop{
+	border:2px solid black;
+	border-radius:20px;
+	width:20%;
+	position:relative;
+	left:180px;
+	bottom:30px;
+}
+.titl-head{
+	background-color:red;
+	color:black;
+	text-align:center;
+}
+.p1{
+	font-size:18px;
+	color:gray;
+	text-align:center;
+}
